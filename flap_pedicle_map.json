@@ -1,0 +1,673 @@
+{
+ "flaps": {
+  "ALT (anterolateral thigh)": [
+   {
+    "role": "source",
+    "name": "femoral artery",
+    "left": [
+     "FJ2074"
+    ],
+    "right": [
+     "FJ2143"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "descending branch of lateral circumflex femoral artery",
+    "left": [
+     "FJ2063"
+    ],
+    "right": [
+     "FJ2057"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "lateral circumflex femoral artery",
+    "left": [
+     "FJ2078"
+    ],
+    "right": [
+     "FJ2158"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "lateral circumflex femoral vein",
+    "left": [
+     "FJ2188"
+    ],
+    "right": [
+     "FJ2201"
+    ],
+    "midline": null
+   }
+  ],
+  "DIEP / free TRAM": [
+   {
+    "role": "source",
+    "name": "external iliac artery",
+    "left": [
+     "FJ3466"
+    ],
+    "right": [
+     "FJ3567"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "inferior epigastric artery",
+    "left": [
+     "FJ3511"
+    ],
+    "right": [
+     "FJ3604"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "inferior epigastric vein",
+    "left": [
+     "FJ3512"
+    ],
+    "right": [
+     "FJ3605"
+    ],
+    "midline": null
+   }
+  ],
+  "Pedicled TRAM / VRAM": [
+   {
+    "role": "source",
+    "name": "internal thoracic artery",
+    "left": [
+     "FJ1972"
+    ],
+    "right": [
+     "FJ1937"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "superior epigastric artery",
+    "left": [
+     "FJ1971"
+    ],
+    "right": [
+     "FJ1936"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "superior epigastric vein",
+    "left": [
+     "FJ3530"
+    ],
+    "right": [
+     "FJ3615"
+    ],
+    "midline": null
+   }
+  ],
+  "SIEA": [
+   {
+    "role": "pedicle",
+    "name": "superficial epigastric artery",
+    "left": [
+     "FJ3529"
+    ],
+    "right": [
+     "FJ3614"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "superficial epigastric vein",
+    "left": [
+     "FJ2122"
+    ],
+    "right": [
+     "FJ2178"
+    ],
+    "midline": null
+   },
+   {
+    "role": "source",
+    "name": "femoral artery",
+    "left": [
+     "FJ2074"
+    ],
+    "right": [
+     "FJ2143"
+    ],
+    "midline": null
+   }
+  ],
+  "Latissimus dorsi / TDAP": [
+   {
+    "role": "source",
+    "name": "subscapular artery",
+    "left": [
+     "FJ2246"
+    ],
+    "right": [
+     "FJ2298"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "thoracodorsal artery",
+    "left": [
+     "FJ2253"
+    ],
+    "right": [
+     "FJ2305"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "thoracodorsal vein",
+    "left": [
+     "FJ2254"
+    ],
+    "right": [
+     "FJ2306"
+    ],
+    "midline": null
+   }
+  ],
+  "Scapular / parascapular": [
+   {
+    "role": "source",
+    "name": "subscapular artery",
+    "left": [
+     "FJ2246"
+    ],
+    "right": [
+     "FJ2298"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "circumflex scapular artery",
+    "left": [
+     "FJ2221"
+    ],
+    "right": [
+     "FJ2273"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "circumflex scapular vein",
+    "left": [
+     "FJ2222"
+    ],
+    "right": [
+     "FJ2274"
+    ],
+    "midline": null
+   }
+  ],
+  "Pectoralis major": [
+   {
+    "role": "pedicle",
+    "name": "trunk of thoraco-acromial artery",
+    "left": [
+     "FJ2252"
+    ],
+    "right": [
+     "FJ2304"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "pectoral branch of thoraco-acromial artery",
+    "left": [
+     "FJ2330"
+    ],
+    "right": [
+     "FJ2361"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "lateral thoracic artery",
+    "left": [
+     "FJ1976"
+    ],
+    "right": [
+     "FJ1938"
+    ],
+    "midline": null
+   }
+  ],
+  "Internal mammary perforator (IMAP)": [
+   {
+    "role": "pedicle",
+    "name": "internal thoracic artery",
+    "left": [
+     "FJ1972"
+    ],
+    "right": [
+     "FJ1937"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "internal thoracic vein",
+    "left": null,
+    "right": null,
+    "midline": [
+     "FJ1993"
+    ]
+   }
+  ],
+  "Radial forearm (RFFF)": [
+   {
+    "role": "source",
+    "name": "brachial artery",
+    "left": [
+     "FJ2219"
+    ],
+    "right": [
+     "FJ2271"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "radial artery",
+    "left": [
+     "FJ2242"
+    ],
+    "right": [
+     "FJ2294"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "radial vein",
+    "left": [
+     "FJ2244"
+    ],
+    "right": [
+     "FJ2296"
+    ],
+    "midline": null
+   }
+  ],
+  "Ulnar artery flap": [
+   {
+    "role": "pedicle",
+    "name": "ulnar artery",
+    "left": [
+     "FJ2258"
+    ],
+    "right": [
+     "FJ2310"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "ulnar vein",
+    "left": [
+     "FJ2260"
+    ],
+    "right": [
+     "FJ2312"
+    ],
+    "midline": null
+   }
+  ],
+  "Lateral arm": [
+   {
+    "role": "source",
+    "name": "deep brachial artery",
+    "left": [
+     "FJ2225"
+    ],
+    "right": [
+     "FJ2277"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "radial collateral branch of deep brachial artery",
+    "left": [
+     "FJ2261"
+    ],
+    "right": [
+     "FJ2262"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "middle collateral branch of deep brachial artery",
+    "left": [
+     "FJ2331"
+    ],
+    "right": [
+     "FJ2362"
+    ],
+    "midline": null
+   }
+  ],
+  "Posterior tibial / soleus region": [
+   {
+    "role": "source",
+    "name": "popliteal artery",
+    "left": [
+     "FJ2086"
+    ],
+    "right": [
+     "FJ2170"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "posterior tibial artery",
+    "left": [
+     "FJ2087"
+    ],
+    "right": [
+     "FJ2172"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "posterior tibial vein",
+    "left": [
+     "FJ2118"
+    ],
+    "right": [
+     "FJ2173"
+    ],
+    "midline": null
+   }
+  ],
+  "Dorsalis pedis flap": [
+   {
+    "role": "source",
+    "name": "anterior tibial artery",
+    "left": [
+     "FJ2065"
+    ],
+    "right": [
+     "FJ2130"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "dorsalis pedis artery",
+    "left": [
+     "FJ2073"
+    ],
+    "right": [
+     "FJ2055"
+    ],
+    "midline": null
+   }
+  ],
+  "Medial plantar (instep)": [
+   {
+    "role": "source",
+    "name": "posterior tibial artery",
+    "left": [
+     "FJ2087"
+    ],
+    "right": [
+     "FJ2172"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "medial plantar artery",
+    "left": [
+     "FJ2082"
+    ],
+    "right": [
+     "FJ2164"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "superficial medial plantar artery",
+    "left": [
+     "FJ2089"
+    ],
+    "right": [
+     "FJ2179"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "lateral plantar artery",
+    "left": [
+     "FJ2079"
+    ],
+    "right": [
+     "FJ2159"
+    ],
+    "midline": null
+   }
+  ],
+  "Trapezius (transverse cervical)": [
+   {
+    "role": "source",
+    "name": "subclavian artery",
+    "left": [
+     "FJ3479"
+    ],
+    "right": [
+     "FJ3579"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "transverse cervical artery",
+    "left": [
+     "FJ2257"
+    ],
+    "right": [
+     "FJ2309"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "superficial cervical artery",
+    "left": [
+     "FJ2256"
+    ],
+    "right": [
+     "FJ2308"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "dorsal scapular artery",
+    "left": [
+     "FJ2232"
+    ],
+    "right": [
+     "FJ2284"
+    ],
+    "midline": null
+   }
+  ],
+  "Omentum (gastro-epiploic)": [
+   {
+    "role": "pedicle",
+    "name": "gastro-epiploic artery",
+    "left": [
+     "FJ3501"
+    ],
+    "right": [
+     "FJ3596"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "gastroepiploic vein",
+    "left": [
+     "FJ3502"
+    ],
+    "right": [
+     "FJ3597"
+    ],
+    "midline": null
+   }
+  ],
+  "Great saphenous / venous grafts": [
+   {
+    "role": "vein",
+    "name": "great saphenous vein",
+    "left": [
+     "FJ2103"
+    ],
+    "right": [
+     "FJ2145"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "small saphenous vein",
+    "left": [
+     "FJ2121"
+    ],
+    "right": [
+     "FJ2176"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "cephalic vein",
+    "left": [
+     "FJ2220"
+    ],
+    "right": [
+     "FJ2272"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "basilic vein",
+    "left": [
+     "FJ2218"
+    ],
+    "right": [
+     "FJ2270"
+    ],
+    "midline": null
+   }
+  ],
+  "Genicular / popliteal region": [
+   {
+    "role": "pedicle",
+    "name": "popliteal artery",
+    "left": [
+     "FJ2086"
+    ],
+    "right": [
+     "FJ2170"
+    ],
+    "midline": null
+   },
+   {
+    "role": "pedicle",
+    "name": "descending genicular artery",
+    "left": [
+     "FJ2069"
+    ],
+    "right": [
+     "FJ2137"
+    ],
+    "midline": null
+   },
+   {
+    "role": "vein",
+    "name": "popliteal vein",
+    "left": [
+     "FJ2117"
+    ],
+    "right": [
+     "FJ2171"
+    ],
+    "midline": null
+   }
+  ]
+ },
+ "not_in_dataset": {
+  "SGAP / IGAP": [
+   "superior gluteal artery",
+   "inferior gluteal artery"
+  ],
+  "Gracilis / medial femoral circumflex": [
+   "medial circumflex femoral artery",
+   "deep femoral artery (profunda femoris)"
+  ],
+  "Fibula free flap / peroneal perforator": [
+   "peroneal (fibular) artery"
+  ],
+  "Gastrocnemius / sural flaps": [
+   "medial sural artery",
+   "lateral sural artery"
+  ],
+  "Groin flap / DCIA": [
+   "superficial circumflex iliac artery",
+   "deep circumflex iliac artery"
+  ],
+  "Posterior interosseous artery flap": [
+   "posterior interosseous artery"
+  ],
+  "Head & neck flaps (facial, submental, temporoparietal, paramedian forehead, FAMM)": [
+   "facial artery",
+   "submental artery",
+   "superficial temporal artery",
+   "external carotid artery",
+   "lingual artery",
+   "occipital artery (extracranial)",
+   "supratrochlear artery",
+   "supraorbital artery"
+  ],
+  "Pudendal thigh / Martius / TUG": [
+   "internal pudendal artery",
+   "obturator artery"
+  ],
+  "Jejunal flap": [
+   "jejunal arteries"
+  ]
+ }
+}
